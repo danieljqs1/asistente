@@ -1,5 +1,6 @@
 langgraph
-langgraph-cli
 langchain-community
 langchain_openai
+langchain_core
 python-dotenv
+tavily-python
