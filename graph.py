@@ -47,6 +47,7 @@ graph = graph_builder.compile()
 
 #from langchain_core.messages import BaseMessage
 
+"""
 while True:
     user_input = input("User: ")
     if user_input.lower() in ["quit", "exit", "q"]:
@@ -56,3 +57,4 @@ while True:
         for value in event.values():
             if isinstance(value["messages"][-1], BaseMessage):
                 print("Assistant:", value["messages"][-1].content)
+"""
