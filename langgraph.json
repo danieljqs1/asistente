@@ -1,7 +1,8 @@
 {
     "dependencies": ["."],
     "graphs": {
-      "graph": "./graph.py:graph"
+      "buscador": "./buscador.py:graph",
+      "minutas": "./minutas.py:graph"
     },
     "env": "./.env"
   }
